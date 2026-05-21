@@ -1,8 +1,8 @@
 # Hi, I'm Aishwarya Sundaresan 👋
 
-**Computational Biologist building AI-powered science** | HPC Engineer @ The Scripps Research Institute
+**Computational Biologist building AI-powered science** 
 
-12+ years in genomics and bioinformatics across Scripps Research, UT Southwestern, and UAB. I build tools that automate biological data analysis using agentic AI.
+12+ years in genomics and bioinformatics. I build tools that automate biological data analysis using agentic AI.
 
 ---
 
@@ -17,8 +17,7 @@
 - **JHU Certificate in Agentic AI** *(in progress)*
 
 ### 📄 Research
-- [20+ peer-reviewed publications](https://scholar.google.com/citations?hl=en&user=4ocu5ccAAAAJ&view_op=list_works&sortby=pubdate) • 432 citations
-- Published in *Nature Communications*, *NPJ Genomic Medicine*, *Genome Medicine*, *Annals of the Rheumatic Diseases*
+- [20+ peer-reviewed publications](https://scholar.google.com/citations?hl=en&user=4ocu5ccAAAAJ&view_op=list_works&sortby=pubdate) 
 
 ---
 
